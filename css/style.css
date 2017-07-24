@@ -1,19 +1,19 @@
 /* Nav Bar CSS */
-.navbar-custom {    
+.navbar {    
    background: #2C3E50;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
 }
 
- .navbar-custom .navbar-brand {
+ .navbar .navbar-brand {
    color: white;    
  }
- .navbar-custom .navbar-brand:hover{
+ .navbar .navbar-brand:hover{
    color: white;
  }  
 
- .navbar-custom .navbar-nav li a {
+ .navbar .navbar-nav li a {
    color: white;
  }
 
