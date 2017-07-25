@@ -1,16 +1,39 @@
 /* Nav Bar CSS */
+.navbar {    
+   background: #2C3E50;  
+   text-transform: uppercase;
+   font-weight: 700;   
+   border: none;    
+}
 
+ .navbar .navbar-brand {
+   color: white;    
+ }
+ .navbar .navbar-brand:hover{
+   color: white;
+ }  
+
+ .navbar .navbar-nav li a {
+   color: white;
+ }
 
 /* Header CSS */
-
-
+ header {
+   background: #15C2D2;
+   color: white;
+ } 
 
 /* Section CSS */
-
+section {   
+   padding: 100px 0;   
+ } 
 
 
 /* About Section CSS */
-
+ section#about {   
+   background: #15C2D2;    
+   color: white;   
+ }   
 
 
 /* Portfolio Item CSS */
@@ -18,7 +41,6 @@
 
 
 /* Footer CSS */
-
-
-
-/* Button CSS */
+ footer {    
+   color: white;     
+ } 
